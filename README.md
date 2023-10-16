@@ -6,7 +6,7 @@ This is the iteration assignment in BAN400. As you know -- given that you have c
 
 **Name:** Haakon Tiller Vangsnes
 
-**Student number:**175332
+**Student number:** 175332
 
 ## :information_source: Problem 1
 Update the personal information above.
