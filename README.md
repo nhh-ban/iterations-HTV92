@@ -8,7 +8,7 @@ This is the iteration assignment in BAN400. As you know -- given that you have c
 
 **Student number:** 175332
 
-**Note:**: Did not have time to complete this assignment
+**Note:** Did not have time to complete this assignment
 
 ## :information_source: Problem 1
 Update the personal information above.
